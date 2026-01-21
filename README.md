@@ -27,40 +27,10 @@ Bu sadece bir çizim aracı değil; Veri Mimarı olma yolunda ilerleyenler için
 * **🛡️ Mantıksal Doğrulama:** Uyumsuz bileşenleri tespit eden ve mimari hataları engelleyen kural motoru.
 * **🏗️ Altyapı Farkındalığı (Infrastructure Aware):** Seçilen servislerin Kubernetes, Docker veya YARN üzerinde nasıl konumlandığını otomatik olarak katmanlar halinde gösterir.
 
-## 🛠️ Kurulum ve Çalıştırma
-
-Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
-
-1.  **Repoyu Klonlayın**
-    ```bash
-    git clone [https://github.com/KULLANICI_ADINIZ/BigDataSimulator.git](https://github.com/KULLANICI_ADINIZ/BigDataSimulator.git)
-    cd BigDataSimulator
-    ```
-
-2.  **Gereksinimleri Yükleyin**
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *(Not: Diyagramların çizilebilmesi için işletim sisteminizde [Graphviz](https://graphviz.org/download/) yüklü olmalıdır.)*
-
-3.  **Uygulamayı Başlatın**
-    ```bash
-    streamlit run Home.py
-    ```
-
 ## 📸 Ekran Görüntüleri
 
 *(Buraya uygulamanın ekran görüntülerini veya GIF'ini ekleyebilirsiniz)*
 
-## 🤝 Katkıda Bulunma
-
-Bu proje benim öğrenme sürecimin bir yansımasıdır. Eğer eksik bir teknoloji görürseniz veya daha iyi bir mimari öneriniz varsa, katkıda bulunmaktan çekinmeyin!
-
-1.  Projeyi Fork'layın
-2.  Yeni bir Branch oluşturun (`git checkout -b feature/YeniOzellik`)
-3.  Değişikliklerinizi Commit'leyin (`git commit -m 'Yeni teknoloji eklendi: Redpanda'`)
-4.  Branch'inizi Push'layın (`git push origin feature/YeniOzellik`)
-5.  Bir Pull Request oluşturun
 
 ## 👤 İletişim
 
