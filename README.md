@@ -39,7 +39,7 @@ Bu sadece bir çizim aracı değil; Veri Mimarı olma yolunda ilerleyenler için
 **[Adınız Soyadınız]**
 
 * LinkedIn: [www.linkedin.com/in/ömer-çakan-819751261]
-* GitHub: [@KullaniciAdiniz]
+* GitHub: [https://github.com/propaper12]
 * Streamlit:[https://bigdatas-mulatoregitim-mahry6kuukr6dmqgqbvbpp.streamlit.app/]
 
 ---
