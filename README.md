@@ -20,6 +20,7 @@ Bu projeyi, öğrenme sürecimi hızlandırmak ve kendime ait bir **"Dijital Not
 
 Bu sadece bir çizim aracı değil; Veri Mimarı olma yolunda ilerleyenler için yaşayan bir rehberdir.
 
+
 ## 🚀 Özellikler
 
 * **📚 Canlı Teknoloji Envanteri:** 30'dan fazla Büyük Veri teknolojisi için detaylı akademik açıklamalar, kullanım senaryoları ve "Hello World" kod örnekleri.
@@ -29,8 +30,9 @@ Bu sadece bir çizim aracı değil; Veri Mimarı olma yolunda ilerleyenler için
 
 ## 📸 Ekran Görüntüleri
 
-*(Buraya uygulamanın ekran görüntülerini veya GIF'ini ekleyebilirsiniz)*
-
+<img width="2763" height="1462" alt="Ekran görüntüsü 2026-01-21 004822" src="https://github.com/user-attachments/assets/e23261f0-6224-4495-b75b-2a51cb0059e0" />
+<img width="2778" height="1454" alt="Ekran görüntüsü 2026-01-21 004645" src="https://github.com/user-attachments/assets/2e27ba10-682b-4d82-b3cc-38f7f17ec33e" />
+<img width="2784" height="1475" alt="Ekran görüntüsü 2026-01-21 004507" src="https://github.com/user-attachments/assets/a4bffe06-6b31-4511-ac56-1f972846cd39" />
 
 ## 👤 İletişim
 
